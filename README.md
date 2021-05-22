@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science Student, it's my last year!!
 
-- 🌱 I’m currently learning everything, i hope if i had started coding at 14 🤣
+- 💪 I’m currently learning everything, i hope if i had started coding at 14 🤣
 - 👯 I’m looking to collaborate with other content creators to improve my skills 🙏
 - 🥅 2021 Goals: Finish my studies
 - ⚡ Fun fact: As a kid, I once did this really stupid thing, and it was: climb stairs and stick a fork 				inside the bulb socket 
