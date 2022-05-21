@@ -7,7 +7,6 @@
 - 💪 I’m currently learning everything, i wish if i had started coding at 14 😀
 - 👯 I’m looking to collaborate with other content creators to improve my skills 🙏
 - 🥅 2021 Goals: Finish my studies 🤞
-- ⚡ Fun fact: As a kid, I once did this really stupid thing, and it was: climb stairs and stick a fork inside the bulb socket 😂
 
 <p>
   <img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=F4hdC&show_icons=true&hide_border=true"></a>
