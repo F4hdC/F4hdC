@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=F4hdC&color=blue&label=Visitors)
 
-## Officially I'm a Computer Science Engineer, Gratuated in 2022 by University of Salamanca (Spain).
+## Officially I'm a Computer Science Engineer, Gratuated in 2022 from University of Salamanca (Spain).
 
 - 💪 I’m currently learning swift to start developing iOS apps
 
